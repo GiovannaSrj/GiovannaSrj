@@ -1,4 +1,4 @@
-## Hi there! Sou Giovanna Serejo.
+  ## Hi there!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannasrj&show_icons=true&theme=onedark" />
